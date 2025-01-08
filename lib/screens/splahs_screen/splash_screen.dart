@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:panko_birlik/utils/app_colors.dart';
 import 'package:panko_birlik/utils/app_text_styles.dart';
 
 class SplashScreen extends StatefulWidget {
